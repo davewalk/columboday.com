@@ -7,3 +7,4 @@ log = true
 uglyURLs = true
 verbose = true
 verboseLog = true
+publishDir = "docs"
