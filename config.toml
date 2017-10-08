@@ -1,0 +1,9 @@
+baseURL = "http://columboday.com/"
+languageCode = "en-us"
+title = "Happy Columbo Day!"
+enableRobotsTXT = false
+googleAnalytics =  "UA-23229923-15"
+log = true
+uglyURLs = true
+verbose = true
+verboseLog = true
