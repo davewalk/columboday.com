@@ -79,4 +79,7 @@ Maybe this table comparing the two will help:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How will YOU be celebrating? <a href="https://twitter.com/hashtag/ColumboDay?src=hash&amp;ref_src=twsrc%5Etfw">#ColumboDay</a> <a href="https://twitter.com/hashtag/ColumbusDay?src=hash&amp;ref_src=twsrc%5Etfw">#ColumbusDay</a> <a href="https://twitter.com/hashtag/OneMoreThing?src=hash&amp;ref_src=twsrc%5Etfw">#OneMoreThing</a> <a href="https://twitter.com/hashtag/IndigenousPeoplesDay?src=hash&amp;ref_src=twsrc%5Etfw">#IndigenousPeoplesDay</a> I ignore the ancient, Italian to solve mysteries. <a href="https://t.co/Iu8kMUktj9">pic.twitter.com/Iu8kMUktj9</a></p>&mdash; WendyGoeldnerHermes (@wendyblazer65) <a href="https://twitter.com/wendyblazer65/status/917381230185910272?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I know it might not be &quot;P.C.&quot; to say it, but I&#39;d like to wish everyone a Happy Columbo Day <a href="https://t.co/WBjer1LyEg">https://t.co/WBjer1LyEg</a> <a href="https://twitter.com/hashtag/columboday?src=hash&amp;ref_src=twsrc%5Etfw">#columboday</a></p>&mdash; Doogie Horner (@DoogieHorner) <a href="https://twitter.com/DoogieHorner/status/917406456563027969?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </center>
