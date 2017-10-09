@@ -14,7 +14,7 @@ Did you know that Lt. Columbo appeared on stage at a Frank Sinatra roast? While 
 
 Did you know that there is a Colubmo statue in Budapest, Hungary? Supposedly the actor that played Columbo, Peter Falk, is related to 19th-century Hungarian political figure Miksa Falk. The statue resides on Falk Miksa Street and nearby is a statue of a dog modeled after a local dog named "Franzi".<p>
 
-![columbo statue](img/columbo_statue.jpg)<p>
+<img src="img/columbo_statue.jpg" alt="columbo statue" /><br /><br />
 
 <h3>"Mrs. Columbo" spin-off</h3>
 
