@@ -70,6 +70,9 @@ And then read what people are saying about #ColumboDay:<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;One more thing. When you were &#39;discovering&#39; America, was there anyone else there at the time?&quot; <a href="https://twitter.com/hashtag/ColumboDay?src=hash&amp;ref_src=twsrc%5Etfw">#ColumboDay</a></p>&mdash; Jacob Brogan (@Jacob_Brogan) <a href="https://twitter.com/Jacob_Brogan/status/785607104585469952?ref_src=twsrc%5Etfw">October 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Columbo Day! <br><br>Check out more here: <a href="https://t.co/Dcjh1SNyYA">https://t.co/Dcjh1SNyYA</a> <a href="https://t.co/1FSOK07WnV">pic.twitter.com/1FSOK07WnV</a></p>&mdash; 🍀🐥Lumpy Louise🌹🐥 (@lumpylouise) <a href="https://twitter.com/lumpylouise/status/917424452345921538?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Columbo Day. 2017 the marathon continues with No Time To Die <a href="https://twitter.com/hashtag/columbo?src=hash&amp;ref_src=twsrc%5Etfw">#columbo</a> <a href="https://twitter.com/hashtag/columboday?src=hash&amp;ref_src=twsrc%5Etfw">#columboday</a> <a href="https://t.co/E7sca2TFxS">pic.twitter.com/E7sca2TFxS</a></p>&mdash; paul marlier (@paul_marlier) <a href="https://twitter.com/paul_marlier/status/917398993885331457?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
