@@ -5,6 +5,8 @@ draft: false
 
 <center>
 <ul>
+  <li><a href="https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day">Indigenous People's Day</a></li>
+  <li><a href="https://www.uua.org/multiculturalism/dod/indigenous-day">Ten Ways to Honor Indigenous Peoples Day</a></li>
   <li><a href="https://hornetapp.com/stories/11-reasons-to-celebrate-columbos-day-instead-of-columbus-day/">11 Reasons to Celebrate Columbo’s Day Instead of Columbus Day</a></li>
   <li><a href="https://www.dailykos.com/stories/2014/10/13/1336255/-Happy-Columbo-s-Day">Happy Columbo's Day!</a></li>
   <li><a href="http://www.breakingburgh.com/federal-government-to-recognize-columbo-day-instead-of-columbus-day-from-now-on/">Federal Government To Recognize Columbo Day Instead of Columbus Day From Now On</a></li>

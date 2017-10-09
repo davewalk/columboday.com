@@ -61,6 +61,12 @@ Maybe this table comparing the two will help:
 
 <h2>I think it's pretty clear from this table that Columbo is a lot better than Christopher Columbus. So shouldn't we celebrate Columbo on this day instead? Have fun "surfing" the rest of this website to learn more about Columbo and...Happy Columbo Day!</h2>
 
+And even better yet, support this fundraiser:
+
+<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='indigenous-peoples-day-event-funds'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
+
+And then read what people are saying about #ColumboDay:<p>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;One more thing. When you were &#39;discovering&#39; America, was there anyone else there at the time?&quot; <a href="https://twitter.com/hashtag/ColumboDay?src=hash&amp;ref_src=twsrc%5Etfw">#ColumboDay</a></p>&mdash; Jacob Brogan (@Jacob_Brogan) <a href="https://twitter.com/Jacob_Brogan/status/785607104585469952?ref_src=twsrc%5Etfw">October 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
