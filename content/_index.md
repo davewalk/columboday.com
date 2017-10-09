@@ -8,7 +8,7 @@ description = "Celebrating the TV show 'Columbo' on Columbo Day!"
 
 <h2>But wait, who's Columbo, you say?</h2>
 
-![columbo](img/columbo.jpg)
+<iframe src="https://giphy.com/embed/ylyUQm2pCWo5yLfFEQ" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bad-ass-detective-columbo-ylyUQm2pCWo5yLfFEQ">via GIPHY</a></p>
 
 Lt. Columbo was a Los Angeles detective, portrayed by actor Peter Falk between 1968 and 2003 and the television show "Columbo." Columbo's investigations almost always revolve around the rich and famous of L.A. He solves cases not by abusing people, but by using his wits. He would make suspects think he was a simpleton fool until his classic "Just one more thing..." question would reveal them as the criminal that they always were!
 
